@@ -1,0 +1,53 @@
+a:link {
+    color:#FFFFFF;
+    font-size:125%;
+}
+
+a:visited {
+    color: #FFFFFF;
+    font-size:125%;
+}
+a:active {
+    font-style: italic;
+}
+body{
+    background-color: #326c85;    
+}
+table{
+    font-size: 140%;
+}
+
+#navigationbar {
+    color: #ffffff;
+    background-color: #854b32;
+    height:232px;
+    width: 1800px;
+}
+
+#sidenavigation {
+    float: left;
+    width: 200px;
+    height: 800px;
+    color: #FFFFFF;
+    background-color:  #854b32;
+}
+
+#content {    
+    margin-left: 200px;
+    background-color: #326c85;
+}
+
+#pagefooter {
+    clear: left;
+}
+
+.topnavigationlink {
+    clear: left;
+    font-size: 1.1em;
+    margin-left: 1em;
+}
+
+.sidenavigationlink {
+    font-size: 1em;
+    line-height: 2em;
+}
