@@ -11,3 +11,5 @@
 		?>
 	</body>
 </html>
+
+<?php echo "this is a lovely thing"; ?>
